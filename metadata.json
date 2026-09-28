@@ -1,0 +1,6 @@
+{
+  "name": "MK Tournament - Esports Platform",
+  "description": "Competitive gaming tournament hub with live custom room password reveal, coin wallet, real-time leaderboard, and organizer admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
